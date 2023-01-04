@@ -47,6 +47,13 @@ body{
     height: fit-content;
     min-height: 10rem;
 }
+.graph{
+    border-radius: 1rem;
+    height: 5rem;
+    width: 80%;
+    background-color: rgba(255, 0, 255, 0.579);
+    margin: auto;
+}
 .top3{
     display: grid;
     grid-template-columns: 10rem 10rem 10rem;
